@@ -6,7 +6,7 @@
 
 ## Profile
 📞 **Email** | minginew77@gmail.com <br />
-✉ **Phone** | 
+<!-- ✉ **Phone** | -->
 
 
 
