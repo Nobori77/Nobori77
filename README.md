@@ -24,7 +24,7 @@ https://hits.seeyoufarm.com/<br /><br />
 
 
 <!--
-**dev-tpghks23/dev-tpghks23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nobori77/Nobori77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
